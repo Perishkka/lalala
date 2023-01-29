@@ -1,0 +1,31 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+   
+}
+
+.img-anim{
+    opacity: 1;
+}
+
+.img-anim:hover{
+    opacity:0.8;
+}    
+
+
+.kinds{
+    font-family: Courier;
+    font-size: 19px;
+    text-decoration: none;
+    color:black;
+    
+
+}
+
+
+.album{
+    background-color: white;
+    border-top: 2px solid black;
+}
+
+
